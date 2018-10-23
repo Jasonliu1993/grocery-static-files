@@ -1,0 +1,49 @@
+.theme {
+    background-color: #2e3032;
+}
+
+.set-margin-top {
+    margin-top: 20px;
+}
+
+.content {
+    width: 100%;
+
+    padding: 10px 20px;
+
+    background-color: white;
+    /*border-radius: 3px;*/
+    border-top: 2px solid #2e3032;
+    border-radius: 3px;
+}
+
+.content img{
+    /*width: 100%;*/
+
+}
+
+.title {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+.title .title-theme {
+    text-align: center;
+}
+
+.title .title-desc {
+    margin: 0 auto;
+}
+
+.title .title-desc .title-desc-left {
+    text-align: left;
+}
+
+.title .title-desc .title-desc-right {
+    text-align: right;
+}
+
+.set-border-radius {
+    border-radius: 3px;
+}

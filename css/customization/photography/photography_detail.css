@@ -1,0 +1,83 @@
+.set-margin-top {
+    margin-top: 20px;
+}
+
+.theme {
+    background-color: #2e3032;
+}
+
+.core-area {
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.large-img {
+    margin: 0 auto;
+    width: 90%;
+    height: 90%;
+    position: relative;
+}
+
+.large-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.large-img .descr{
+    width: 100%;
+    background-color:rgba(0,0,0,0.5);
+    position: absolute;
+    bottom: 0;
+}
+
+.large-img .descr .header{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.large-img .descr .content{
+    color: white;
+    padding: 10px;
+}
+
+.left-button {
+    margin: 0 auto;
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.left-button a {
+    font-size: 40px;
+    text-align: left;
+    line-height: 100%;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+
+.right-button {
+    margin: 0 auto;
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.right-button a{
+    font-size: 40px;
+    text-align: right;
+    line-height: 100%;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 50%;
+    right: 0;
+}

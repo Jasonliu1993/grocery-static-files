@@ -1,0 +1,17 @@
+.set-nav-button {
+    margin-top: 5px;
+    margin-right: 20px;
+}
+
+#userstatus {
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+}
+
+.register-error {
+    color: red;
+    font-size: 10px;
+    margin: 0 auto;
+    text-align: center;
+}

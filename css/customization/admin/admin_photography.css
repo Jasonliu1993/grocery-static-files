@@ -1,0 +1,33 @@
+.theme {
+    background-color: #2e3032;
+}
+
+.set-margin-top {
+    margin-top: 20px;
+}
+
+.set-left {
+    height: 90%;
+    clear: both;
+}
+
+.content {
+    width: 100%;
+
+    padding: 5px;
+
+    background-color: white;
+    border-radius: 3px;
+}
+
+.clear-both {
+    clear: both;
+}
+
+.set-to-left {
+    float: left;
+}
+
+.set-null-bottom {
+    margin-bottom: 0;
+}
